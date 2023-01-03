@@ -17,7 +17,7 @@
 **After about one year long stagnation, i tried to restart this project.**
 </text>
 
-<font size=3 color="black" face="微软雅黑">2022-1-26</font>
+<font size=3 color="black" face="微软雅黑">2023-1-3</font>
 ****
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
